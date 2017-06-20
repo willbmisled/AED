@@ -15,55 +15,59 @@ knitr::opts_chunk$set(echo = TRUE)
 Rating: 
 
 * Participate in ORD, AED, and MAB meetings and planning sessions
-    - Details unknown (Target Date: Q2-Q4) 
-* Participate in planning and refinements for SSWR 4.01C Cyanobacterial research (Target Date: Q2-Q4)
-    - Design the lakes database: work with colleagues to define what the database will include, how it will be stored, and what features it will include. (Target Date: Q3)
-    - Assist in the development of a research plan for the twice-weekly monitoring of RI lakes (Target Date: Q3)
+    - Details unknown (Target Date: Q2-Q4). **Midterm Pars: ongoing**
+* Participate in planning and refinements for SSWR 4.01C Cyanobacterial research (Target Date: Q2-Q4). **Midterm Pars: ongoing**
+    - Design the lakes database: work with colleagues to define what the database will include, how it will be stored, and what features it will include. (Target Date: Q3). **Midterm Pars: ongoing**
+    - Assist in the development of a research plan for the twice-weekly monitoring of RI lakes (Target Date: Q3). **Midterm Pars: ongoing**
 
 ###CE 2 - Program Implementation: 
 Rating: 
 
 * Participate in implementation of SSWR 4.01C Cyanobacterial research 
     - Develop a relational database of all lakes in the coterminous United States for use in cyanobacteria monitoring and research.  
-        - Database Development:  develop and populate the lakes database (Target Date: Q4)
-        - Document the Database:  write draft of basic metadata for the database. (Target Date: Q4)
-        - Data Paper: begin drafting a publishable data paper describing the database features and how to access it. (Target Date: Q4)
+        - Database Development:  develop and populate the lakes database (Target Date: Q4). **Midterm Pars: ongoing**
+        - Document the Database:  write draft of basic metadata for the database. (Target Date: Q4). **Midterm Pars: ongoing**
+        - Data Paper: begin drafting a publishable data paper describing the database features and how to access it. (Target Date: Q4). **Midterm Pars: ongoing**
     - Bloom modeling for SSWR 4.01c.  Assist with the analysis of the NLA 2007 phytoplankton and cyano toxin database. 
-        - Organize NLA data and convert to an R database (Target Date: Q2)
-        - Analyze data using standard Ordination techniques (Target Date: Q3)
-        - Prepare abstract for a presentation at the 2017 ESA meeting in Portland (Target Date: Q2)
+        - Organize NLA data and convert to an R database (Target Date: Q2). **Midterm Pars: partially done; change target to Q3**
+        - Analyze data using standard Ordination techniques (Target Date: Q3). **Midterm Pars: ongoing**
+        - Prepare abstract for a presentation at the 2017 ESA meeting in Portland (Target Date: Q2). **Midterm Pars: complete**
         
     - Participate in proposed twice-weekly monitoring of cyanobacteria in Rhode Island Lakes
-        - Field work as required (Target Date: Q3-Q4) 
-        - Help with database development and analysis (Target Date: Q3-Q4) 
-        - If possible, become trained in the collection, identification, and quantification of phytoplankton (Target Date: Q3-Q4)
+        - Field work as required (Target Date: Q3-Q4). **Midterm Pars: not started** 
+        - Help with database development and analysis (Target Date: Q3-Q4). **Midterm Pars: not started** 
+        - If possible, become trained in the collection, identification, and quantification of phytoplankton (Target Date: Q3-Q4). **Midterm Pars: not started**
 * Provide technical assistance to the Cyanobacteria Monitoring Collaborative
     - Assist with the implementation of the "cyanoScope" project
-        - Paricipate in ongoing identification of sumitted photos (Target Date: Q2-Q4) 
-        - Help with training and analysis as needed (Target Date: Q3-Q4)
-    - Attend quarterly meeting of the CMC in Chelmsford (Target Date: Q2-Q4) 
-    - Work with the CMC to document and archive data for 2015 & 2016 (Target Date: Q2-Q4) 
-    - Manage data collection for 2017 (Target Date: Q4) 
-    - Assist with the analysis of 2015 & 2016 data (Target Date: Q2-Q4) 
+        - Paricipate in ongoing identification of sumitted photos (Target Date: Q2-Q4). **Midterm Pars: ongoing** 
+        - Help with training and analysis as needed (Target Date: Q3-Q4). **Midterm Pars: ongoing**
+    - Attend quarterly meeting of the CMC in Chelmsford (Target Date: Q2-Q4). **Midterm Pars: ongoing** 
+    - Work with the CMC to document and archive data for 2015 & 2016 (Target Date: Q2-Q4). **Midterm Pars: ongoing** 
+    - Manage data collection for 2017 (Target Date: Q4). **Midterm Pars: ongoing** 
+    - Assist with the analysis of 2015 & 2016 data (Target Date: Q2-Q4). **Midterm Pars: not started** 
     
 
 ###CE3 - Technical and Scientific Communication: 
 Rating: 
 
-* Present paper o the bloom modeling work at the Ecological Society of America meeting in Portland OR, August 6-11, 2017.  (Target Date: Q4)
-* Consisidering submitting an abstract based on the CMC work the 2017 (November) Harmful Algal Blooms Symposium in Baltimore (Target Date: Q3-Q4) 
-* Draft data paper on lakes database for cyanobacteria research (Target Date: Q4)
-* Draft manuscript for publication on the bloom modeling work (Target Date: Q4)
+* Present paper o the bloom modeling work at the Ecological Society of America meeting in Portland OR, August 6-11, 2017.  (Target Date: Q4). **Midterm Pars: abstract submitted; analysis in progress.**
+* Consisidering submitting an abstract based on the CMC work the 2017 (November) Harmful Algal Blooms Symposium in Baltimore (Target Date: Q3-Q4). **Midterm Pars: not started** 
+* Draft data paper on lakes database for cyanobacteria research (Target Date: Q4). **Midterm Pars: not started** 
+* Draft manuscript for publication on the bloom modeling work (Target Date: Q4). **Midterm Pars: not started** 
 
 ###CE 4 - Resource Management:
 Rating: 
 
-* As needed, assist in budgeting for and procurement of equipment and services for SSWR 4.01C (Target date: Q2-Q4) 
+* As needed, assist in budgeting for and procurement of equipment and services for SSWR 4.01C (Target date: Q2-Q4). **Midterm Pars: ongoing** 
 
 ###CE 5 - Professional Interactions and Teamwork:
 Rating: 
 
-* Forge new collaborations with URI and other academic institutions (Target date: Q2-Q4) 
-* Tentative: collaborate with the USGS to use the East Coast (combined MRB1 & MRB2) SPARROW model to analyze CMAQ scenarios (Target date: Q2-Q4)
-* Questionable: collaborate with NSF project in Chile to collate, document, and archive data from a 30 year field ecology project (Target date: Q2-Q4)
+* Forge new collaborations with URI and other academic institutions (Target date: Q2-Q4).  **Midterm Pars: ongoing**  
+* Tentative: collaborate with the USGS to use the East Coast (combined MRB1 & MRB2) SPARROW model to analyze CMAQ scenarios (Target date: Q2-Q4). **Midterm Pars: research plan submitted to USGS** 
+* Questionable: collaborate with NSF project in Chile to collate, document, and archive data from a 30 year field ecology project (Target date: Q2-Q4).  **Midterm Pars: ongoing**
+* Participate on the AED Awards Board: serve as an MAB member to the board. Target date: Q2-Q4).  **Midterm Pars: Task added April 2017.  
+
+* Extra Stuff
+    - 20170620: provided additional support and data to the Chesapeake Bay team from an analysis I did for them in 2014.
 
