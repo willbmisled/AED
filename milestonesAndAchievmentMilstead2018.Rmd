@@ -1,0 +1,123 @@
+---
+title: "Milestones and Achievements 2018"
+author:	Bryan Milstead
+output: pdf_document
+date:	"1 Oct 2017 - 30 Sep 2018"
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+###Overall Rating: 
+###CE 1 - Program Planning:
+<!--Rating: **self-rating: ** -->
+
+* Participate in ORD, AED, and MAB meetings and planning sessions
+    - Details unknown (Target Date: Q1-Q4). 
+        <!--**Midterm Pars: **
+        - **Final Pars: **-->
+* Participate in planning and refinements for SSWR 4.01C Cyanobacterial research (Target Date: Q1-Q4). 
+    - Design the lakes database: work with colleagues to define what the database will include, how it will be stored, and what features it will include. (Target Date: Q1-Q4). 
+        <!-- - **Midterm Pars: ongoing**
+        - **Final Pars: fully successful**-->
+    - Assist in the development of a research plan for the twice-weekly monitoring of RI lakes (Target Date: Q1-Q4). 
+        <!-- - **Midterm Pars: ongoing**
+        - **Final Pars: fully successful**-->
+
+###CE 2 - Program Implementation: 
+<!--Rating: **self-rating: ** -->
+
+* Participate in implementation of SSWR 4.01C Cyanobacterial research 
+    - Develop a relational database of all lakes in the coterminous United States for use in cyanobacteria monitoring and research.  
+        - Database Development:  develop and populate the lakes database (Target Date: Q4). 
+            <!-- - **Midterm Pars: ongoing**
+            - **Final Pars: NLA2007 and NLA2012 reformatted and harmonized**-->
+        - Document the Database:  write draft of basic metadata for the database. (Target Date: Q4). 
+            <!-- - **Midterm Pars: ongoing**
+            - **Final Pars: progressing but will not be complete until the database is ready**-->
+    - Bloom modeling for SSWR 4.01c.  Assist with the analysis of the NLA 2007 phytoplankton and cyano toxin database. 
+        - Decide whether to continue analysis and publish or move on (Target Date: Q1). 
+            <!-- - **Midterm Pars: complete**
+            - **Final Pars: completed**-->
+    - Develop an R package (goatscape) to collect landscape and census data around lakes (Target Date: Q1-Q4).
+        - Develop the functions and code needed (Target Date: Q1-Q3).
+        - Assemble and publish the package (Target Date: Q3-Q4).
+    - Assist with modeling of lake photic zone temperatures
+        - Assemble a database of lake temperatures and local weather (Target Date: Q1-Q4).
+        - Develop models to predict lake temperature from local weather (Target Date: Q1-Q4).
+            <!-- - **Midterm Pars: complete**
+            - **Final Pars: completed**-->
+    - Participate in proposed twice-weekly monitoring of cyanobacteria in Rhode Island Lakes
+        - Field work as required (Target Date: Q1 & Q4). 
+            <!-- - **Midterm Pars: not started**
+            - **Final Pars: ongoing / near completion**-->
+        - Help with database development and analysis (Target Date: Q2-Q4). 
+            <!-- - **Midterm Pars: not started** 
+            - **Final Pars: awaiting data**-->
+        - If possible, become trained in the collection, identification, and quantification of phytoplankton (Target Date: Q1-Q4).   
+            <!-- - **Midterm Pars: not started**
+            - **Final Pars: in progress; have worked with the Haney Lab (UNH) and other colleagues**-->
+* Provide technical assistance to the Cyanobacteria Monitoring Collaborative
+    - Assist with the implementation of the "cyanoScope" project
+        - Paricipate in ongoing identification of sumitted photos (Target Date: Q1-Q4). 
+            <!-- - **Midterm Pars: ongoing** 
+            - **Final Pars: advancing; working on getting additional taxononmists to help**-->
+        - Help with training and analysis as needed (Target Date: Q3-Q4). 
+            <!-- - **Midterm Pars: ongoing**
+            - **Final Pars: ongoing**-->
+    - Attend quarterly meeting of the CMC in Chelmsford (Target Date: Q1-Q4). 
+          <!-- - **Midterm Pars: ongoing** 
+          - **Final Pars: ongoing** -->
+    - Work with the CMC to document and archive data for 2016 & 2017 (Target Date: Q1-Q4). 
+          <!-- - **Midterm Pars: ongoing** 
+          <!-- - **Midterm Pars: 2015 complete; 2016 is ongoing; now we have 2017 data also**--> 
+    - Manage data collection for 2018 (Target Date: Q4). 
+          <!-- - **Midterm Pars: ongoing** 
+          - **Final Pars: template data entry forms provided; data have not been returned yet**-->
+    - Assist with the analysis of data as needed (Target Date: Q1-Q4). 
+          <!-- - **Midterm Pars: not started** 
+          - **Final Pars: not started** -->
+* Collaborate on a project to develop trophic state indices for the estuaries with the National Coastal Assessement data
+    - Work with Farnaz Nojavan to adapt her lake trophic state models to coastal systems (Target Date: Q1-Q2). 
+    - Develop coastal models (Target Date: Q2-Q3). 
+    
+###CE3 - Technical and Scientific Communication: 
+<!--Rating: **self-rating: ** -->
+* Draft data paper on lakes database (if complete) for cyanobacteria research (Target Date: Q4). 
+    <!-- - **Midterm Pars: not started** 
+    - **Final Pars: not started**-->
+* Draft manuscript for publication on the bloom modeling work (if we continue) (Target Date: Q3). 
+    <!-- - **Midterm Pars: not started** 
+    - **Final Pars: debating whether to move forward this due to problems with the NLA phytoplankton database**--> 
+* Co-author manuscript ton the TSI coastal analysis (Target Date: Q4). 
+
+###CE 4 - Resource Management:
+<!--Rating: **self-rating: ** --> 
+
+* As needed, assist in budgeting for and procurement of equipment and services for SSWR 4.01C (Target date: Q1-Q4). 
+    <!-- - **Midterm Pars: ongoing** 
+    - **Final Pars: ongoing** -->
+
+###CE 5 - Professional Interactions and Teamwork:
+Rating: <!--**self-rating: exceeds expectation** -->
+
+* Recruit new people to add photos and identifications for cyanoScope (Target date: Q1-Q4).
+    <!-- - **Midterm Pars: ongoing**
+    - **Final Pars: ongoing**-->
+* Forge new collaborations with URI and other academic institutions (Target date: Q1-Q4).
+    <!-- - **Midterm Pars: ongoing**
+    - **Final Pars: ongoing**-->
+* collaborate with the Betsy Hilborn (USEPA) to collate census and NLCD data around NLA lakes for cyanobacteria risk analysis (Target date: Q1-Q4). 
+    <!-- - **Midterm Pars: research plan submitted to USGS** 
+    - **Final Pars: completed**--> 
+* collaborate with the Rich Moore (USGS) and Anne Hoos (USGS) on an analysis of CMAQ scenarios with the east coast SPARROW model (Target date: Q1-Q2). 
+    <!-- - **Midterm Pars: research plan submitted to USGS** 
+    - **Final Pars: completed**-->
+* Collaborate with NSF project in Chile to collate, document, and archive data from a 30 year field ecology project (Target date: Q1-Q4).
+* Participate on the AED Awards Board: serve as an MAB member to the board. Target date: Q1-Q4).  
+    -<!--**Midterm Pars: .**
+    - **Final Pars: ongoing**
+-<!--* Extra Stuff-->
+    
