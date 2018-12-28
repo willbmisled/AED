@@ -1,0 +1,64 @@
+---
+title: "Milestones and Achievements 2019"
+author:	Bryan Milstead
+output: word_document
+date:	"1 Oct 2018 - 30 Sep 2019"
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+###Overall Rating 
+<!--* Self-rating: **Fully Successful**-->
+
+<!-- Midterm Pars: **ongoing**.-->
+<!-- Final Pars: **completed**.-->
+
+###CE 1 - Program Planning
+<!--* Self-rating: **Fully Successful**-->
+
+* Participate in ORD, AED, and MAB meetings and planning sessions
+* Participate in planning and refinements for SSWR 4.01C Cyanobacterial research (Target Date: Q1-Q4). 
+
+###CE 2 - Program Implementation
+<!--* Self-rating: **Fully Successful**-->
+
+* Participate in implementation of SSWR 4.01C Cyanobacterial research 
+    - Assist with modeling of lake photic zone temperatures
+        - Develop models to predict lake photic zone temperature from local weather (Target Date: Q1-Q4).
+        - Participate in the analysis of changes in lake photic zone temperatures over time
+        - Assemble a historical database of lake photic zone temperatures and local weather (Target Date: Q1-Q4).
+        - Backcast and analyze historical changes in lake photic zone temperatures
+        - Participate in twice-weekly monitoring of cyanobacteria in Rhode Island Lakes (Target Date: Q3 & Q4).
+
+* Provide technical assistance to the Cyanobacteria Monitoring Collaborative
+    - Assist with the implementation of the "cyanoScope" project
+        - Participate in ongoing identification of sumitted photos (Target Date: Q1-Q4). 
+        - Attend quarterly meeting of the CMC in Chelmsford (Target Date: Q1-Q4). 
+    - Work with the CMC to document and archive data for 2017 & 2018 (Target Date: Q1-Q4). 
+    - Manage data collection for 2019 (Target Date: Q4). 
+    - Assist with the analysis of data as needed (Target Date: Q1-Q4). 
+    - Develop methods to improve data collection with the hand-held fluorometers (Target Date: Q1-Q3).
+
+###CE3 - Technical and Scientific Communication
+<!--* Self-rating: **Fully Successful**-->
+* Present paper at scientific meeting (possible Freshwater Science) on cyanoscope or temperature modeling (Target Date: Q1-Q4).
+* Coauthor paper on methods to predict lake photic zone temperatures
+* Coauthor paper on historical changes in lake photic zone temperatures
+
+###CE 4 - Resource Management
+<!--* Self-rating: **Fully Successful**-->
+
+* As needed, assist in budgeting for and procurement of equipment and services for SSWR 4.01C (Target date: Q1-Q4). 
+
+###CE 5 - Professional Interactions and Teamwork
+<!--* Self-rating: **Fully Successful**-->
+
+* Recruit new people to add photos and identifications for cyanoScope (Target date: Q1-Q4).
+* Forge new collaborations with URI and other academic institutions (Target date: Q1-Q4).
+* Collaborate with NSF project in Chile to collate, document, and archive data from a 30 year field ecology project (Target date: Q1-Q4).
+* Participate on the AED Awards Board: serve as an MAB member to the board. Target date: Q1-Q4).  
+<!--* Extra Stuff-->
+    
