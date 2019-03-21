@@ -60,5 +60,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * Forge new collaborations with URI and other academic institutions (Target date: Q1-Q4).
 * Collaborate with NSF project in Chile to collate, document, and archive data from a 30 year field ecology project (Target date: Q1-Q4).
 * Participate on the AED Awards Board: serve as an MAB member to the board. Target date: Q1-Q4).  
-<!--* Extra Stuff-->
+* Extra Stuff
+    - Casco Bay Sparrow model work for Matt Liebman in Region 1
+    - Housatonic Sparrow model prediction for Robin Johnson in Region 1
     
