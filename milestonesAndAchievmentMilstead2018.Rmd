@@ -137,5 +137,8 @@ knitr::opts_chunk$set(echo = TRUE)
 * Participate on the AED Awards Board: serve as an MAB member to the board. Target date: Q1-Q4).  
     - Midterm Pars: **ongoing**. 
     - Final Pars: **ongoing**.
--<!--* Extra Stuff-->
+* Extra Stuff
+    - Casco Bay Sparrow model work for Matt Liebman in Region 1
+    - Housatonic Sparrow model prediction for Robin Johnson in Region 1
+
     
