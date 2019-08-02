@@ -20,7 +20,9 @@ knitr::opts_chunk$set(echo = TRUE)
 <!--* Self-rating: **Fully Successful**-->
 
 * Participate in ORD, AED, and MAB meetings and planning sessions
+    - Midterm Pars: **ongoing**
 * Participate in planning and refinements for SSWR 4.01C Cyanobacterial research (Target Date: Q1-Q4). 
+    - Midterm Pars: **ongoing**
 
 ###CE 2 - Program Implementation
 <!--* Self-rating: **Fully Successful**-->
@@ -28,39 +30,60 @@ knitr::opts_chunk$set(echo = TRUE)
 * Participate in implementation of SSWR 4.01C Cyanobacterial research 
     - Assist with modeling of lake photic zone temperatures
         - Develop models to predict lake photic zone temperature from local weather (Target Date: Q1-Q4).
+        - Midterm Pars: **data and draft model complete; MS in prep**
         - Participate in the analysis of changes in lake photic zone temperatures over time
+          - Midterm Pars: **ongoing**
         - Assemble a historical database of lake photic zone temperatures and local weather (Target Date: Q1-Q4).
+          - Midterm Pars: **ongoing**
         - Backcast and analyze historical changes in lake photic zone temperatures
+          - Midterm Pars: **ongoing**
         - Participate in twice-weekly monitoring of cyanobacteria in Rhode Island Lakes (Target Date: Q3 & Q4).
+          - Midterm Pars: **starting soon**
 
 * Provide technical assistance to the Cyanobacteria Monitoring Collaborative
     - Assist with the implementation of the "cyanoScope" project
         - Participate in ongoing identification of sumitted photos (Target Date: Q1-Q4). 
+            - Midterm Pars: **ongoing**
         - Attend quarterly meeting of the CMC in Chelmsford (Target Date: Q1-Q4). 
+            - Midterm Pars: **ongoing**
     - Work with the CMC to document and archive data for 2017 & 2018 (Target Date: Q1-Q4). 
-    - Manage data collection for 2019 (Target Date: Q4). 
-    - Assist with the analysis of data as needed (Target Date: Q1-Q4). 
+        - Midterm Pars: **ongoing**
+    - Manage data collection for 2019 (Target Date: Q4). \
+        - Midterm Pars: **Q4**
+    - Assist with the analysis of data as needed (Target Date: Q1-Q4).
+        - Midterm Pars: **ongoing**
     - Develop methods to improve data collection with the hand-held fluorometers (Target Date: Q1-Q3).
+        - Midterm Pars: **stalled**
 
 ###CE3 - Technical and Scientific Communication
 <!--* Self-rating: **Fully Successful**-->
 * Present paper at scientific meeting (possible Freshwater Science) on cyanoscope or temperature modeling (Target Date: Q1-Q4).
+    - Midterm Pars: **cancelled**
 * Coauthor paper on methods to predict lake photic zone temperatures
+    - Midterm Pars: **ongoing**
 * Coauthor paper on historical changes in lake photic zone temperatures
+    - Midterm Pars: **preliminary analysis stage**
 
 ###CE 4 - Resource Management
 <!--* Self-rating: **Fully Successful**-->
 
 * As needed, assist in budgeting for and procurement of equipment and services for SSWR 4.01C (Target date: Q1-Q4). 
+    - Midterm Pars: **ongoing**
 
 ###CE 5 - Professional Interactions and Teamwork
 <!--* Self-rating: **Fully Successful**-->
 
 * Recruit new people to add photos and identifications for cyanoScope (Target date: Q1-Q4).
+    - Midterm Pars: **ongoing**
 * Forge new collaborations with URI and other academic institutions (Target date: Q1-Q4).
+    - Midterm Pars: **ongoing**
 * Collaborate with NSF project in Chile to collate, document, and archive data from a 30 year field ecology project (Target date: Q1-Q4).
-* Participate on the AED Awards Board: serve as an MAB member to the board. Target date: Q1-Q4).  
+    - Midterm Pars: **ongoing**
+* Participate on the AED Awards Board: serve as an MAB member to the board. Target date: Q1-Q4). 
+    - Midterm Pars: **ongoing**
 * Extra Stuff
     - Casco Bay Sparrow model work for Matt Liebman in Region 1
+      - Midterm Pars: **completed**
     - Housatonic Sparrow model prediction for Robin Johnson in Region 1
+      - Midterm Pars: **completed**
     
